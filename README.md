@@ -21,3 +21,7 @@ Technologies Used:
 1. Selenium
 2. TestNG framework
 3. Maven
+
+Output ScreenShot
+![Screenshot (22)](https://github.com/user-attachments/assets/658bae35-9d40-4e37-89cc-b76ce055f08f)
+![Screenshot (21)](https://github.com/user-attachments/assets/6bb7199a-0858-4dd7-8cec-25ec67acae5b)
